@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm faexan
+# Hi there! 👋 I'm Faizan
 _"Crafting code, like life, is a continuous journey of discovery."_
 
 ## 🛠 Technologies & Tools
